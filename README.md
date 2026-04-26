@@ -60,6 +60,7 @@ This project focuses on analyzing employee data to uncover insights related to a
 
 ## 📷 Dashboard Preview
 
+![Dashboard](dashboard.png)
 
 ---
 
