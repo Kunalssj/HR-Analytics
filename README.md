@@ -1,4 +1,4 @@
-# HR-Analytics
+
 # 📊 HR Analytics Dashboard
 
 ## 📌 Project Overview
@@ -60,7 +60,7 @@ This project focuses on analyzing employee data to uncover insights related to a
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Screenshot 2026-04-27 001950.png)
+<img width="1282" height="721" alt="Screenshot 2026-04-27 001950" src="https://github.com/user-attachments/assets/a5a6f78c-abfe-40df-bf43-bdefcbdfb287" />
 
 ---
 
